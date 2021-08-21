@@ -1,2 +1,2 @@
 # PROJECT-C110-DATA-SAMPLING
-Original copyright reserved to gauravlahoti80
+Original copyrights reserved to gauravlahoti80
